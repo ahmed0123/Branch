@@ -1,3 +1,5 @@
 <? php
 
 echo "test2";
+
+new line in the hotfixs branch

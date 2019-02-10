@@ -2,3 +2,4 @@
 
 echo "hello from git";
 echo "new line";
+the new line in the new branch
